@@ -1,30 +1,5 @@
 //readnumsv6.c – Lab 01 – Abdellah, Ghassel
 
-//
-// Program to read numbers.
-// Version 5 is a combination of version 3 and version 4 - it uses a linked
-// list but it allows data to be added either at the front or at the back.
-// Note that the data entry method has changed - each number has a preceeding
-// letter indicating whether the number is to be added at the front, or the end
-// or whether input is finished.
-//
-// HISTORY
-// 200726 - DFA - First release
-
-/* --README--------------------------------------------------------------------
-Source code used for teaching purposes in course:
-ELEC278, Queen's University, Kingston, Fall semester 2020.
-This code is provided without warranty of any kind. It is the responsibility
-of the user to determine the correctness and the usefulness of this code for
-any purpose.
-
-Author:  David F. Athersych, P.Eng.
-All rights reserved. This code is intended for students registered in the
-course and the semester listed above.
-
-See LICENCE.MD for restrictions on the use of this code.
----------------------------------------------------------------------------- */
-
 #include <stdio.h>
 #include <stdlib.h>
 
