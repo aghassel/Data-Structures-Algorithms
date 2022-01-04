@@ -1,27 +1,4 @@
 // LAB03BST2 - Lab 03 - Abdellah, Ghassel
-// Example building binary search tree. This version uses both key and value
-// field, with both fields being strings.
-// This code displays a lot of information as it works. You may find it
-// informative to use the information to follow how the tree is built.
-
-
-/* --README--------------------------------------------------------------------
-Source code used for teaching purposes in course:
-ELEC278, Queen's University, Kingston, Fall semester 2020.
-This code is provided without warranty of any kind. It is the responsibility
-of the user to determine the correctness and the usefulness of this code for
-any purpose.
-
-Author:  David F. Athersych, P.Eng.
-All rights reserved. This code is intended for students registered in the
-course and the semester listed above.
-
-See LICENCE.MD for restrictions on the use of this code.
----------------------------------------------------------------------------- */
-//
-// HISTORY
-// 200726 - DFA - First release
-//
 
 #include <stdlib.h>
 #include <string.h>
