@@ -1,23 +1,5 @@
 // LAB3_BST.c - Lab 03 - Abdellah, Ghassel
 
-// Code for ELEC278 Lab 3.  Some code has already been implemented.
-// You will develop your own code - look for the comments.
-
-
-/* --README--------------------------------------------------------------------
-Source code used for teaching purposes in course:
-ELEC278, Queen's University, Kingston, Fall semester 2020.
-This code is provided without warranty of any kind. It is the responsibility
-of the user to determine the correctness and the usefulness of this code for
-any purpose.
-
-Author:  David F. Athersych, P.Eng.
-All rights reserved. This code is intended for students registered in the
-course and the semester listed above.
-
-See LICENCE.MD for restrictions on the use of this code.
----------------------------------------------------------------------------- */
-
 #include <stdlib.h>
 #include <stdio.h>
 #include "LAB3_BST.h"
