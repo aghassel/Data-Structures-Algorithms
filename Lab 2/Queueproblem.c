@@ -1,5 +1,3 @@
-//queueproblem.c - Lab 02 - Abdellah, Ghassel
-
 #include <stdio.h>
 #include <stdlib.h>
 
