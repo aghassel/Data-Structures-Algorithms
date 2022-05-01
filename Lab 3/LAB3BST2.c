@@ -1,5 +1,3 @@
-// LAB03BST2 - Lab 03 - Abdellah, Ghassel
-
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
