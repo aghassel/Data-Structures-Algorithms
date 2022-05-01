@@ -1,5 +1,3 @@
-//LAB5_HASH.C - Lab 05 - Ghassel, Abdellah, Thakore, Akshay
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
