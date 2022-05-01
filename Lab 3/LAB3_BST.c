@@ -1,5 +1,3 @@
-// LAB3_BST.c - Lab 03 - Abdellah, Ghassel
-
 #include <stdlib.h>
 #include <stdio.h>
 #include "LAB3_BST.h"
