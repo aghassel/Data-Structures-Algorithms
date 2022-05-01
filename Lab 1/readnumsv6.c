@@ -1,5 +1,3 @@
-//readnumsv6.c – Lab 01 – Abdellah, Ghassel
-
 #include <stdio.h>
 #include <stdlib.h>
 
