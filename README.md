@@ -1,7 +1,6 @@
-# Assignments
-
-1) Lab 1 - Removing Duplicates
-2) Lab 2 - Stacks and Queues
-3) Lab 3 - Find Parent, Delete and Height Functions of Binary Search Tree
-4) Lab 4 - Modified Quick Sort Algorithm with Insertion Sort
-5) Lab 5 - Graph Traversals and Deletions
+# Course Assignments
+* Lab 1 - Removing Duplicates
+* Lab 2 - Stacks and Queues
+* Lab 3 - Find Parent, Delete and Height Functions of Binary Search Tree
+* Lab 4 - Modified Quick Sort Algorithm with Insertion Sort
+* Lab 5 - Graph Traversals and Deletions
