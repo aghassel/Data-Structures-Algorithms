@@ -1,5 +1,3 @@
-//Abdellah Ghassel, Akshay Thakore - Lab04 - L4_QUICKSORT2.c
-
 #include <stdio.h>
 #include <time.h>
 
