@@ -1,4 +1,4 @@
-# ELEC278-Assignments
+# Assignments
 
 1) Lab 1 - Removing Duplicates
 2) Lab 2 - Stacks and Queues
