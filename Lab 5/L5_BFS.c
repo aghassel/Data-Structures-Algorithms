@@ -1,18 +1,3 @@
-//LAB5_BFS.C - Lab 05 - Ghassel, Abdellah, Thakore, Akshay
-
-/* --README--------------------------------------------------------------------
-Source code used for teaching purposes in course:
-ELEC278, Queen's University, Kingston, Fall semester 2021.
-This code is provided without warranty of any kind. It is the responsibility
-of the user to determine the correctness and the usefulness of this code for
-any purpose.
-
-Author:  David F. Athersych, P.Eng.
-All rights reserved. This code is intended for students registered in the
-course and the semester listed above.
-
-See LICENCE.MD for restrictions on the use of this code.
----------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 
